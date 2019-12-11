@@ -1,0 +1,9 @@
+mybi
+
+# CSED516 Final Project Proposal
+Mengying Bi
+
+ML in Big Data
+
+Plans to compare the performance of SQL and Spark on (stohastic)
+gradient descent.  Uses two data sets, on AWS.  No concerns.
